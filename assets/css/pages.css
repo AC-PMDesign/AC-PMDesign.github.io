@@ -698,7 +698,7 @@ body, #container-wrap { background:transparent url("../images/bg-body.jpg") no-r
 
 #item7027 {
 	width:214px !important;
-	left:2243px !important;
+	left:2193px !important;
 	top:206px !important;
 	min-height:246px !important;
 }
@@ -762,13 +762,6 @@ body, #container-wrap { background:transparent url("../images/bg-body.jpg") no-r
 	height:24px !important;
 	left:36px !important;
 	top:56px !important;
-}
-
-#item9940 {
-	width:782px !important;
-	height:442px !important;
-	left:1442px !important;
-	top:206px !important;
 }
 
 #item7305 {
@@ -1164,18 +1157,29 @@ body, #container-wrap { background:transparent url("../images/bg-body.jpg") no-r
 	min-height:43px !important;
 }
 
-#item9893 {
-	width:474px !important;
-	height:270px !important;
-	left:1953px !important;
-	top:206px !important;
+#item9964 {
+	width:469px !important;
+	height:375px !important;
+	left:1444px !important;
+	top:187px !important;
 }
 
-#item9897 {
+#item10096 {
+	width:478px !important;
+	height:375px !important;
+	left:-5px !important;
+}
+
+#item9966 {
 	width:474px !important;
-	height:391px !important;
-	left:1444px !important;
-	top:204px !important;
+	height:269px !important;
+	left:1953px !important;
+	top:187px !important;
+}
+
+#item10090 {
+	width:474px !important;
+	height:270px !important;
 }
 
 p.autoParaStyle42 {
